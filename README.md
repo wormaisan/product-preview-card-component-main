@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions](https://www.frontendmentor.io/solutions/flex-PANB01_mcb)
+- Live Site URL: [https://wormaisan.github.io/product-preview-card-component-main/](https://wormaisan.github.io/product-preview-card-component-main/)
 
 ## My process
 
